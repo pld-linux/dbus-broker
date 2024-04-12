@@ -1,11 +1,11 @@
 Summary:	Linux D-Bus Message Broker
 Name:		dbus-broker
-Version:	35
+Version:	36
 Release:	0.1
 License:	Apache v2.0
 Group:		Libraries
 Source0:	https://github.com/bus1/dbus-broker/releases/download/v%{version}/dbus-broker-%{version}.tar.xz
-# Source0-md5:	7598df58394caad29b702069e05e8d79
+# Source0-md5:	0398b41a250a6172e35750fc864ee33b
 URL:		https://github.com/bus1/dbus-broker/wiki
 BuildRequires:	audit-libs-devel >= 3.0
 BuildRequires:	c-dvar-devel >= 1.1.0
