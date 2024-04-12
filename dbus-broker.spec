@@ -4,7 +4,7 @@ Version:	35
 Release:	0.1
 License:	Apache v2.0
 Group:		Libraries
-Source0:	https://github.com/bus1/dbus-broker/releases/download/v35/dbus-broker-35.tar.xz
+Source0:	https://github.com/bus1/dbus-broker/releases/download/v%{version}/dbus-broker-%{version}.tar.xz
 # Source0-md5:	7598df58394caad29b702069e05e8d79
 URL:		https://github.com/bus1/dbus-broker/wiki
 BuildRequires:	audit-libs-devel >= 3.0
